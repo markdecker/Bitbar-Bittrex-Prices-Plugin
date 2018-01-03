@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# <bitbar.title>Coinbase Prices</bitbar.title>
+# <bitbar.title>Bittrex Prices</bitbar.title>
 # <bitbar.version>v1.0</bitbar.version>
 # <bitbar.author>Mark Decker</bitbar.author>
 # <bitbar.author.github>markdecker</bitbar.author.github>
